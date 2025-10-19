@@ -1,0 +1,4 @@
+badsite.example
+spam-domain.co
+free-crypto.giveaway
+phishingsite.top

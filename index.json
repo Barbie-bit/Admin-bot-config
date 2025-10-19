@@ -1,0 +1,9 @@
+{
+  "version": "2025-10-19T14:20:00Z",
+  "files": {
+    "stopwords/ru.ndjson": "sha256:seed-ru",
+    "stopwords/domains_block.txt": "sha256:seed-domains",
+    "whitelist/domains_allow.txt": "sha256:seed-allow"
+  },
+  "cache_ttl_seconds": 3600
+}

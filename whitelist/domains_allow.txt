@@ -1,0 +1,3 @@
+example.com
+my-partner.org
+trusted-service.local

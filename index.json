@@ -1,5 +1,5 @@
 {
-  "version": "2025-10-20T21:35:00Z",
+  "version": "2025-10-20T21:37:00Z",
   "files": {
     "stopwords/ru.ndjson": "sha256:seed-ru",
     "stopwords/domains_block.txt": "sha256:seed-domains",
